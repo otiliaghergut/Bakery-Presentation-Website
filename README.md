@@ -57,7 +57,7 @@ Here are the functionalities that have been implemented:
 
 - Contact Page: On the dedicated contact page, I have added a map component displaying the provided address. Furthermore, a fully functional contact form has been implemented using EmailJS, along with the necessary ENV file extension.
   
-![Screenshot_6](https://github.com/otiliaghergut/Bakery-Presentation-Website/assets/118387100/5aa54421-edbe-42fe-b515-58a76ee3cc7d) ![Screenshot_7](https://github.com/otiliaghergut/Bakery-Presentation-Website/assets/118387100/e634aec5-2c51-4572-9edb-5285823927cb)
+![Screenshot_6](https://github.com/otiliaghergut/Bakery-Presentation-Website/assets/118387100/5aa54421-edbe-42fe-b515-58a76ee3cc7d) , ![Screenshot_7](https://github.com/otiliaghergut/Bakery-Presentation-Website/assets/118387100/e634aec5-2c51-4572-9edb-5285823927cb)
 
 - JSON Database: To dynamically manage content, I employed a JSON database. It stores arrays of objects containing information such as path, title, description, id, photos, individualTitle, and individualDescription. As a result, the webpage's URL and content adapt based on the accessed category.
 
