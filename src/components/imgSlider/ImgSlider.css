@@ -1,0 +1,29 @@
+.slider-images-container {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: hidden;
+    gap: 1rem;
+    scroll-behavior: smooth;
+}
+
+.slider-images-container img {
+    width: 110px;
+    height: 110px;
+    object-fit: contain;
+    margin-top: 0.5rem;
+    cursor: pointer;
+}
+
+.slider-wrapper {
+    position: relative;
+}
+
+.slider-nav-button {
+    position: absolute;
+    top: 0.5rem;
+    bottom: 0;
+    background: #8179794d;
+    color: rgb(255, 237, 237);
+    border: none;
+    cursor: pointer;
+}

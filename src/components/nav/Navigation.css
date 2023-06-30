@@ -1,0 +1,32 @@
+.navigation-container {
+    background-color: rgb(252, 242, 243);
+    border: 1px solid rgb(241, 241, 241);
+    display: flex;
+    gap: 3rem;
+    justify-content: end;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+}
+
+.navigation-link {
+    text-decoration: none;
+    margin-right: 2.5rem;
+    color:rgb(95, 57, 87);
+}
+
+.navigation-link:hover {
+    color:rgba(143, 0, 83, 0.664);
+}
+
+@media only screen and (max-width: 600px){
+    .navigation-container{
+        flex-direction: column;
+        gap: 0.1rem;
+        padding: 0.2rem;
+    }
+    .navigation-link {
+        text-align: end;
+        margin-right: 2.5rem; 
+    }
+}

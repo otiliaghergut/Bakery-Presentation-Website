@@ -1,0 +1,8 @@
+.Map {
+    /* height: 60vh;  acesta dimensiune afecteaza ce se afla dedesubtul hartii*/
+    width: 80vw;
+    justify-content: center; 
+    display: flex;
+    text-align: center;
+  }
+  

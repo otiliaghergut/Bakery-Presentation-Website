@@ -1,0 +1,67 @@
+.container {
+    margin-bottom: 3rem;
+}
+
+.welcome-text {
+    color: rgb(95, 57, 87);
+    border-radius: 2%;
+    background-color: rgb(245, 235, 235);
+    text-align: center;
+    font-size: 30px;
+    margin-top: 4rem ;
+    margin-right: 2rem ;
+    margin-left: 2rem ;
+}
+
+.box-wrapper {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 2rem ;
+    color: rgb(0, 0, 0); 
+    font-family: Arial;
+}
+
+.box-wrapper-icon {
+    justify-content: center;
+    display: flex;
+}
+
+.box-wrapper-text1{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.box-wrapper-text2{
+    margin-top: 1.5rem ;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.map {
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+.contactForm {
+    margin-top: 3rem;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+/* @media only screen and (max-width: 600px) {
+    .welcome-text {
+        font-size: 25px;
+        margin-top: 5rem ;
+        margin-right: 0.4rem ;
+        margin-left: 0.4rem ;
+    }
+  } */
+
+
+

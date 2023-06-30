@@ -1,0 +1,30 @@
+  @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Crimson+Text&family=Kurale&family=Merienda:wght@300&family=Playfair:wght@300&family=Rubik+Puddles&family=Work+Sans:wght@200&display=swap');
+
+  :root{
+  font-size: 20px;
+}
+
+body {
+  margin: 0;
+  --bs-body-font-family: 'Crimson Text', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  height: 100%
+}
+
+main {
+  flex: auto;
+  margin-top: 3rem;
+}
+
+hr {
+  border: 0.5px solid #9999991e;
+}

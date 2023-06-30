@@ -1,0 +1,16 @@
+.termeni-container{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 18rem;
+    line-height: 28px;
+}
+
+.termeni-title h3{
+    text-align: center; 
+    margin-bottom: 3rem;
+}
+
+.termeni-text p{
+    margin-top: 0.1rem;
+}
